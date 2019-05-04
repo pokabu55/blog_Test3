@@ -48,6 +48,10 @@ deploy:
 
 https://proglog.herokuapp.com/2016/07/22/hexo/landscape_topimage/
 
+### hexo の設定いろいろ
+参考サイト
+
+https://pepese.github.io/blog/hexo-github-pages/
 
 ### デプロイ
 * `hexo deploy` で、OK。
