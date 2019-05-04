@@ -43,4 +43,14 @@ deploy:
 ### デプロイ
 * `hexo deploy` で、OK。
 
+## 参考サイト
+こっちをベースに下の記事を見た
+https://qiita.com/bird_tummy/items/5988a1efe47e0d47132b
+
+上のが、別のブログを作るときに参考にした
+https://tech.qookie.jp/posts/hexo-deploy-github-pages-backup-version/
+https://tech.qookie.jp/posts/hexo-deploy-github-pages-fast/
+
+
+
 以上。
