@@ -42,6 +42,13 @@ deploy:
   repo: 'https://github.com/pokabu55/blog_Test3.git'
   branch: gh-pages
 ```
+
+### ブログの画像変更
+参考サイト
+
+https://proglog.herokuapp.com/2016/07/22/hexo/landscape_topimage/
+
+
 ### デプロイ
 * `hexo deploy` で、OK。
 
