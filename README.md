@@ -11,7 +11,7 @@
 * gh-pages という名のブランチを作る
 
 ### 記事を置く場所（PC側の設定）
-* ディレクトリの移動
+* ディレクトリの移動 `cd pokabu55`
 * `hexo init [blogname]`
 * blogname に移動
 * `npm install`
@@ -21,6 +21,7 @@
 * `npm install hexo-deployer-git --save`
 
 ### _config.yml の修正
+* VS CODEでの作業です
 * 以下のURL、ROOTを変更し、以下のようにする
 * url: https://【ユーザーネーム】.github.io/【リポジトリ名】/
 * root: 【リポジトリ名】
